@@ -43,7 +43,7 @@ settings:
   schedule:
   - 1: [null, null, null, null, Hist, UkrLang]
     2: [null, Anat, IT, Latin]
-    3: [Oft, Ons, MedPhys-лекція, MedPhys]
+    3: [Oft, Ons, MedPhys, MedPhys]
     4: [null, PE, MedBio, Ons, Ons]
     5: [null, null, null, null, null, null, null, null]
   time:
@@ -87,4 +87,3 @@ whats_new_text: 'Що нового:
   - Виправлено логіку сповіщень про повітряні тривоги.
 
   - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.'
-  
