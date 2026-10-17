@@ -1,0 +1,72 @@
+settings:
+  subjects:
+    MedBio:
+      name: Медична біологія
+      link: https://meet.google.com/xkv-obrb-kft
+      audience: '-'
+    Anat:
+      name: Анатомія
+      link: https://us04web.zoom.us/j/76334693383?pwd=LvnZUjeJAIh0PFziOQ9tYj2uA809GD.1
+      audience: '-'
+    Ons:
+      name: Основи національного спротиву
+      link: https://us05web.zoom.us/j/87558021530?pwd=P9b0YwGXQJbYRkQVqQWgEuomnbWeuZ.1
+      audience: '-'
+    Hist:
+      name: Історія
+      link: https://us05web.zoom.us/j/83696615535?pwd=wCbQYKQQwgPedIuF9MS791vSMau7qJ.1
+      audience: '-'
+    MedPhys:
+      name: Медична фізика
+      link: https://us05web.zoom.us/j/9188535741?pwd=TUwvVVNXK1lLcnBubVB0T1lYYXNBZz09
+      audience: '-'
+    UkrLang:
+      name: Українська мова
+      link: https://us05web.zoom.us/j/5757280906?pwd=RjM1WCt0dER5VlNnRWlSSVZ2Z0ZnUT09
+      audience: '-'
+    Oft:
+      name: Основи ФТ
+      link: https://us05web.zoom.us/j/93216758827?pwd=Y1FUMnZMbjBjRzRBTlhJTFBnUU1NUT09
+      audience: '-'
+  schedule:
+  - 1: [null, null, null, null, null, null, null, null]
+    2: [null, null, null, null, null, null, null, null]
+    3: [null, null, null, null, null, null, null, null]
+    4: [null, null, null, null, null, null, null, null]
+    5: [null, null, null, null, null, null, null, null]
+  time:
+  - 08:30 – 09:50
+  - 10:00 – 11:20
+  - 11:30 – 12:50
+  - 13:00 – 14:20
+  - 14:30 – 15:50
+  - 16:00 – 17:20
+  - 17:30 – 18:50
+  - 19:00 – 20:20
+  admins:
+  - 6133407632
+  - 5823845079
+  academic_context:
+    reference_date: '2026-08-31'
+    reference_week: 1
+  app_version: 1.7.1
+whats_new_text: 'Що нового:
+
+  - Покращено стабільність роботи.
+
+  - Додано можливість швидкого редагування розкладу.
+
+  - Додано можливість вказувати унікальний розклад на конкретну суботу.
+
+  - Підтримка Rich повідомлень.
+
+  - Виправлено роботу в форумах.
+
+  - Можливість увімкнути/вимкнути Rich повідомлення.
+
+  - Статистика в групах надсилається як ефемерні повідомлення.
+
+  - Виправлено логіку сповіщень про повітряні тривоги.
+
+  - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.'
+  
