@@ -28,11 +28,23 @@ settings:
       name: Основи ФТ
       link: https://us05web.zoom.us/j/93216758827?pwd=Y1FUMnZMbjBjRzRBTlhJTFBnUU1NUT09
       audience: '-'
+    IT:
+      name: Інформаційні технології
+      link: '-'
+      audience: '-'
+    Latin:
+      name: Латинська мова та медична термінологія
+      link: '-'
+      audience: '-'
+    PE:
+      name: Фізичне виховання
+      link: '-'
+      audience: '-'
   schedule:
   - 1: [null, null, null, null, Hist, UkrLang]
-    2: [null, null, null, null, null, null, null, null]
-    3: [null, null, null, null, null, null, null, null]
-    4: [null, null, null, null, null, null, null, null]
+    2: [null, Anat, IT, Latin]
+    3: [Oft, Ons, MedPhys-лекція, MedPhys]
+    4: [null, PE, MedBio, Ons, Ons]
     5: [null, null, null, null, null, null, null, null]
   time:
   - 08:30 – 09:50
@@ -52,9 +64,9 @@ settings:
   app_version: 1.7.1
   lesson_types:
   - 1: [null, null, null, null, null, null]
-    2: [null, null, null, null, null, null, null, null]
-    3: [null, null, null, null, null, null, null, null]
-    4: [null, null, null, null, null, null, null, null]
+    2: [null, null, null, null]
+    3: [null, null, лекція, null]
+    4: [null, null, null, null, null]
     5: [null, null, null, null, null, null, null, null]
 whats_new_text: 'Що нового:
 
@@ -75,3 +87,4 @@ whats_new_text: 'Що нового:
   - Виправлено логіку сповіщень про повітряні тривоги.
 
   - Додано команду /alerttopic для вибору топіка за замовчуванням для тривог.'
+  
