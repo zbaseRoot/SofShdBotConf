@@ -42,7 +42,7 @@ settings:
       audience: '-'
     tttt:
       name: test
-      link: '-'
+      link: https://test.com
   schedule:
   - 1: [null, null, null, null, Hist, UkrLang]
     2: [null, Anat, IT, Latin]
