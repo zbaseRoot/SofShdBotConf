@@ -41,7 +41,7 @@ settings:
       link: '-'
       audience: '-'
   schedule:
-  - 1: [null, null, null, null, Hist, UkrLang]
+  - 1: [null, null, null, null, Hist, UkrLang, UkrLang]
     2: [null, Anat, IT, Latin]
     3: [Oft, Ons, MedPhys, MedPhys]
     4: [null, PE, MedBio, Ons, Ons]
@@ -63,7 +63,7 @@ settings:
     reference_week: 1
   app_version: 1.7.1
   lesson_types:
-  - 1: [null, null, null, null, null, null]
+  - 1: [null, null, null, null, null, null, null]
     2: [null, null, null, null]
     3: [null, null, лекція, null]
     4: [null, null, null, null, null]
