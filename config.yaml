@@ -40,9 +40,6 @@ settings:
       name: Фізичне виховання
       link: '-'
       audience: '-'
-    tttt:
-      name: Test
-      link: '-'
   schedule:
   - 1: [null, null, null, null, Hist, UkrLang]
     2: [null, Anat, IT, Latin]
